@@ -12,11 +12,7 @@ module Options {
     }
 
     function saveState() {
-        if (checkbox.checked) {
-            localStorage[caseInsensitiveKey] = true;
-        } else {
-            localStorage[caseInsensitiveKey] = false;
-        }
+        localStorage[caseInsensitiveKey] = !!checkbox.checked;
 
         // Display saved message
         var status = document.getElementById("status");
