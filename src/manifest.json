@@ -33,19 +33,19 @@
     "commands": {
         "next": {
             "suggested_key": {
-                "default": "Alt+Shift+N"
+                "default": "MacCtrl+J"
             },
             "description": "Go to the next search result"
         },
         "prev": {
             "suggested_key": {
-                "default": "Alt+Shift+P"
+                "default": "MacCtrl+K"
             },
             "description": "Go to the previous search result"
         },
         "_execute_browser_action": {
             "suggested_key": {
-                "default": "Alt+Shift+F"
+                "default": "MacCtrl+F"
             }
         }
     },
