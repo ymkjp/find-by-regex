@@ -1,6 +1,5 @@
 {
   "name": "regex-find-in-page",
-  "version": "2.0.1",
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-cli": "^1.2.0",
