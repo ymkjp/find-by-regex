@@ -6,6 +6,9 @@ find-by-regex
 This is a chrome extension to search the text of any page using regular expressions.
 Pull requests are welcome, just base your changes on the dev branch instead of master, as master is only updated on every release and is often behind the dev branch.
 
+#### Chrome Web Store
+* [**find-by-regex**](https://chrome.google.com/webstore/detail/find-by-regex/ckbmhijdfkdmhhenmgboichholfdkglg)
+
 #### Necessary build tools
 - NodeJS: [http://nodejs.org/](http://nodejs.org/)
 
@@ -22,4 +25,4 @@ Pull requests are welcome, just base your changes on the dev branch instead of m
 
 0. Run `npm run release` to minify files
 0. Compress a `lib` directory to zip
-0. Upload zip file on https://chrome.google.com/webstore/developer/edit/lmeeghblnndbojbcdahjgoakgclnpfcl
+0. Upload zip file on https://chrome.google.com/webstore/developer/edit/ckbmhijdfkdmhhenmgboichholfdkglg

@@ -49,7 +49,7 @@ module.exports = function(grunt) {
         compress: {
             main: {
                 options: {
-                    archive: 'regex-search.zip',
+                    archive: 'find-by-regex.zip',
                     mode: 'zip'
                 },
                 files: [
