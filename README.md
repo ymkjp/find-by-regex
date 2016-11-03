@@ -1,4 +1,4 @@
-Regex Find In Page
+find-by-regex
 ==================
 
 This is a chrome extension written in [TypeScript](http://www.typescriptlang.org/) that allows you to search the text of any page using regular expressions.
@@ -30,4 +30,4 @@ Thanks to [ComFreek](https://github.com/ComFreek) for converting a large portion
 License
 =======
 
-[MIT](https://github.com/gsingh93/regex-search/blob/master/LICENSE.txt)
+[MIT](https://github.com/ymkjp/find-by-regex/blob/master/LICENSE.txt)
