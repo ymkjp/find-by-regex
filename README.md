@@ -13,8 +13,9 @@ Pull requests are welcome, just base your changes on the dev branch instead of m
 - NodeJS: [http://nodejs.org/](http://nodejs.org/)
 
 #### Build guide
-1. Clone this repo and execute ```npm install``` inside the created directory,
-2. Run ```npm run build``` in order to build the extension (```build/``` is the output directory).
+0. Clone this repo
+0. Execute ```npm install``` inside the created directory,
+0. Run ```npm run build``` in order to build the extension (```build/``` is the output directory).
 
 #### License
 * Forked from https://github.com/gsingh93/regex-search/tree/v1.8
@@ -24,5 +25,4 @@ Pull requests are welcome, just base your changes on the dev branch instead of m
 #### Publish Chrome Extension
 
 0. Run `npm run release` to minify files
-0. Compress a `lib` directory to zip
 0. Upload zip file on https://chrome.google.com/webstore/developer/edit/ckbmhijdfkdmhhenmgboichholfdkglg

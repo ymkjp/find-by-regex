@@ -7,6 +7,18 @@
       border-color: red;
     }
 
+    .ctrl-area {
+      text-align: center
+    }
+
+    .button {
+      margin: 0.2rem 0;
+    }
+
+    .query {
+      margin: 0.2rem 0;
+    }
+
     #chrome-store-warning {
       color: red;
       display: none;
@@ -15,10 +27,10 @@
 </head>
 <body>
 <div>
-  <input type="text" id="query" autofocus>
-  <div style="text-align: center">
-    <button class="button" id="prev">Prev</button>
-    <button class="button" id="next">Next</button>
+  <input type="search" id="query" class="query" autofocus placeholder="ab+c">
+  <div class="ctrl-area">
+    <button id="prev" class="button">Prev (Ctrl k)</button>
+    <button id="next" class="button">Next (Ctrl j)</button>
     <br>
     <label>Case Insensitive <input type="checkbox" id="case-insensitive"></label>
 
