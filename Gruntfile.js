@@ -27,7 +27,7 @@ module.exports = function(grunt) {
             content: {
                 src: contentSrc,
                 out: "build/content/content.js"
-            },
+            }
         },
         copy: {
             all: {

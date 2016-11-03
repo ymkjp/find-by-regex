@@ -1,5 +1,5 @@
-Regex Search
-===============
+Regex Find In Page
+==================
 
 This is a chrome extension written in [TypeScript](http://www.typescriptlang.org/) that allows you to search the text of any page using regular expressions.
 
